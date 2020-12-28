@@ -1,1 +1,6 @@
-Replace this with a list of your favorite things.
+* Sleeping
+* Eating
+* Dancing
+  * popping
+  * urban:heart:
+  * hiphop
